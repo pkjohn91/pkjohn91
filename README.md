@@ -1,2 +1,2 @@
-# pkjohn91.github.io
-This is a resume for me
+# Park Jonghun
+안녕하세요, 백엔드 주니어 개발자 입니다.
