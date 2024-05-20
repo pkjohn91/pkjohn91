@@ -11,14 +11,14 @@
   - springboot에서 테스트 코드 작성
   - spring JPA 사용
   - spring security와 Auoth 2.0 사용자 인증을 통한 로그인을 구현
-  - AWS EC2 서버환경 구축, rds 구축 경험</br>
-    </br>
+  - AWS EC2 서버환경 구축, rds 구축 경험
+    
 - **EC2에 프로젝트 배포 경험**
   - Travis CI를 통해 git push시, 서버에 배포 자동화 경험
-  </br>
+    
 - **spring.io의 documents를 통한 RESTful web service 학습**
   - curl을 통한 게스트 정보 CRUD 요청 방법 학습
-  </br>
+    
 - **linux 기본적인 명령어 학습**
 
 
