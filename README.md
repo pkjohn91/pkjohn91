@@ -5,6 +5,7 @@
 - [Blog](https://made-wep-society-by-john.tistory.com)
 
 
+
 ## IT 학원 외에 학습 및 경험
 - **스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱 저자)**
   - springboot에서 테스트 코드 작성
