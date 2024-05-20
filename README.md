@@ -1,4 +1,4 @@
-![Pstation](https://github.com/pkjohn91/pkjohn91.github.io/assets/78454742/f967fe12-ca57-428d-8951-5fac521d5132){: width="50%" height="50%"}
+![Pstation150](https://github.com/pkjohn91/pkjohn91.github.io/assets/78454742/53f01d41-a80a-4f2a-9440-dc443b79413e)
 # 🧑‍💻 Park JongHun
 > 안녕하세요, 백엔드 주니어 개발자 입니다.
 - [Github](https://github.com/pkjohn91)
