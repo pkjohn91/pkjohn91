@@ -5,7 +5,7 @@
 - [Github](https://github.com/pkjohn91)
 - [Blog](https://made-wep-society-by-john.tistory.com)
   
-:e-mail: e-mail: pkjohn91@gmail.com
+📧 e-mail: pkjohn91@gmail.com
 
 
 
