@@ -20,7 +20,7 @@
   - Travis CI를 통해 git push시, 서버에 배포 자동화 경험
     
 - **spring.io의 documents를 통한 RESTful web service 학습**
-  - curl을 통한 게스트 정보 CRUD 요청 방법 학습
+  - curl을 통한 게스트 정보 HTTP method 요청 방법 학습
     
 - **linux 기본적인 명령어 학습**
 
