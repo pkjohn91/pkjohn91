@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkjohn91&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Pstation150](https://github.com/pkjohn91/pkjohn91.github.io/assets/78454742/53f01d41-a80a-4f2a-9440-dc443b79413e)
 # 🧑‍💻 Park JongHun
 > 안녕하세요, 백엔드 주니어 개발자 입니다.
@@ -30,6 +31,7 @@
   + 스프링 핵심원리 - 기본편 `완강`
   + 모든 개발자를 위한 HTTP 웹 기본 지식 `완강`
   + 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 `수강중`
+  + 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 `완강`
     
 ## ⤴ To be
 * N-Screen 환경을 구축할 수 있는 서비스 개발자가 되는 것.
