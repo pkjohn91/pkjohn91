@@ -2,7 +2,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkjohn91&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--stack badge-->
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+- ![Static Badge](https://img.shields.io/badge/언어-java-white)
+- ![Static Badge](https://img.shields.io/badge/프레임워크-spring-brightgreen)
+- ![Static Badge](https://img.shields.io/badge/데이터베이스-MySQL-black)
+- ![Static Badge](https://img.shields.io/badge/인프라-AWS-yellow)
+- ![Static Badge](https://img.shields.io/badge/CI/CD-travisCI_/_AWS_Code_Deploy-white)
+- ![Static Badge](https://img.shields.io/badge/운영체제-linux-white)
 
 <!--commit interface-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkjohn91&hide=contribs,prs&show_icons=true&theme=radical)-->
