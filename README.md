@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkjohn91&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Pstation150](https://github.com/pkjohn91/pkjohn91.github.io/assets/78454742/53f01d41-a80a-4f2a-9440-dc443b79413e)
+
 # 🧑‍💻 Park JongHun
 > 안녕하세요, 백엔드 주니어 개발자 입니다.
 
