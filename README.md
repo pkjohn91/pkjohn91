@@ -9,12 +9,7 @@
 
 [![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com)
 
-
-
-
 📧 e-mail: pkjohn91@gmail.com
-
-
 
 ## 📚 IT 학원 외에 학습 및 경험
 <details>
@@ -30,21 +25,28 @@
 </details>
 <details>
 <summary>spring.io의 documents를 통한 RESTful web service 학습</summary>
-  - curl을 통한 게스트 정보 HTTP method 요청 방법 학습
+  - curl을 통한 게스트 정보 HTTP method 요청 방법 학습</br>
 </details>
 <details>
-<summary>linux 기본적인 명령어 학습</summary>
+<summary>Linux 기본적인 명령어 학습</summary>
 </details>
 
 ## ➡ As is
-<details>
- <summary>인프런 강의 수강</summary>
-  - 스프링 입문 - 코드로 배우는 스프링부트, 웹 MVC, DB 접근 기술 (완강)</br>
-  - 스프링 핵심원리 - 기본편 (완강)</br>
-  - 모든 개발자를 위한 HTTP 웹 기본 지식 (완강)</br>
-  - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (수강중)</br>
-  - 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 (완강)</br>
-</details>
+**인프런 강의 수강**
+  - 스프링 입문 - 코드로 배우는 스프링부트, 웹 MVC, DB 접근 기술 (완강)
+  - 스프링 핵심원리 - 기본편 (완강)
+  - 모든 개발자를 위한 HTTP 웹 기본 지식 (완강)
+  - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (수강중)
+  - 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 (완강)
+
+**IT 학원 학습**
+  - Java: '이것이 자바다' 로 학습
+  - spring: 실습을 통해 DI, IOC, bean 개념, 스프링 프레임워크에 대해 학습
+  - html: html의 구조, 자주 쓰는 태그들 이용하여 간단한 웹페이지 실습.
+  - css: 자주 쓰이는 것을 이용하여 간단한 스타일 적용 실습.
+  - JavaScript: bom, dom의 개념에 대해 학습, 비동기 처리 방식 학습
+  - sql: oracle DB에서 기본 테이블을 통해 예제 풀이 학습
+
 
 ## ⤴ To be
-* N-Screen 환경을 구축할 수 있는 서비스 개발자가 되는 것.
+  - 웹앤앱 개발자
