@@ -20,14 +20,17 @@
   - spring security와 Auoth 2.0 사용자 인증을 통한 로그인을 구현</br>
   - AWS EC2 서버환경 구축, RDS 인스턴스 구축 경험</br>  
 </details>
-
-- EC2에 프로젝트 배포 경험
-  - Travis CI를 통해 git push시, 서버에 배포 자동화 경험
-    
-- **spring.io의 documents를 통한 RESTful web service 학습**
+<details>
+<summary>EC2에 프로젝트 배포 경험</summary>
+  - Travis CI를 통해 git push시, 서버에 배포 자동화 경험</br>
+</details>
+<details>
+<summary>spring.io의 documents를 통한 RESTful web service 학습</summary>
   - curl을 통한 게스트 정보 HTTP method 요청 방법 학습
-    
-- **linux 기본적인 명령어 학습**
+</details>
+<details>
+<summary>linux 기본적인 명령어 학습</summary>
+</details>
 
 ## ➡ As is
 <details>
