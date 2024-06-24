@@ -6,7 +6,11 @@
 
 # 🧑‍💻 Park JongHun
 > 안녕하세요, 백엔드 주니어 개발자 입니다.
-- [Blog](https://made-wep-society-by-john.tistory.com)
+
+[![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com)
+
+
+
 
 📧 e-mail: pkjohn91@gmail.com
 
