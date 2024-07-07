@@ -4,7 +4,7 @@
 <!--commit interface-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkjohn91&hide=contribs,prs&show_icons=true&theme=radical)-->
 
-# 🧑‍💻 Park JongHun
+# 🧑‍💻 박 종 훈
 > 안녕하세요, 백엔드 주니어 개발자 입니다.
 
 [![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com)
