@@ -5,7 +5,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkjohn91&hide=contribs,prs&show_icons=true&theme=radical)-->
 
 # 🧑‍💻 박 종 훈
-> 안녕하세요, 백엔드 주니어 개발자 입니다.
+> 안녕하세요, 백엔드 엔지니어 입니다.
 
 [![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com)
 
@@ -36,7 +36,7 @@
   - 스프링 입문 - 코드로 배우는 스프링부트, 웹 MVC, DB 접근 기술 ```완강```
   - 스프링 핵심원리 - 기본편 ```완강```
   - 모든 개발자를 위한 HTTP 웹 기본 지식 ```완강```
-  - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 ```수강중```
+  - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 ```완강```
   - 자바 ORM 표준 JPA 프로그래밍 - 기본편 ```수강중```
   - 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 ```완강```
 
