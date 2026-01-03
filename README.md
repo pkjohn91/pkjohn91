@@ -9,7 +9,7 @@
 # 🧑‍💻 박 종 훈
 > 안녕하세요, 백엔드 엔지니어 입니다.
 
-[![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com)
+<!--[![tilogo](https://github.com/pkjohn91/pkjohn91/assets/78454742/a7a04600-c511-46ea-a8b5-c8c1665bda24)](https://made-wep-society-by-john.tistory.com) -->
 
 📧 e-mail: job.pkjohn@gmail.com
 
